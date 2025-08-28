@@ -8,4 +8,7 @@ khajaonline99@gmail.com
 my best coworker sahera project manager,
 <br>
 professional DATA Analyst.
+<br>
+<strong>This project illustrate the demand of product and number of production before the demand declines.
+
 
