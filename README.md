@@ -11,6 +11,5 @@ professional DATA Analyst.
 <br>
 <strong>This project illustrate the demand of product and number of production before the demand declines.
 <br>
-<span style="color: red; font-family: cursive;">agar main bina add kare karrun toh <span>
 
 
